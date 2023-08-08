@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "ZGTestSDK"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "ZeusGuardSDK is a security solution for iOS apps."
 
   spec.description  = <<-DESC
